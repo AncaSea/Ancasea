@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/ancasear/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="[discordapp.com/users/691522468770349127](http://discordapp.com/users/691522468770349127)" target="_blank">
+  <a href="http://discordapp.com/users/691522468770349127" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="mailto:rekasae255@gmail.com" target="_blank">
