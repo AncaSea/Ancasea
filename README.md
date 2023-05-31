@@ -63,14 +63,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AncaSea)](https://github.com/AncaSea/github-readme-stats" height="200" alt="languages graph"  />
-</div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AncaSea&layout=pie)" height="200" alt="languages graph"  />
+</div> -->
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AncaSea&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AncaSea&show_icons=true&theme=tokyonight" height="200" alt="stats graph"  />
 </div>
 
 ###
