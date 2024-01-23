@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Ancase from Indonesia<br><br>- 🔭 I’m working as web and mobile developer<br>- 📚 I'm currently learning to become great web and mobile developer<br>- ⚡ In my free time I play gamaes</p>
+<p align="left">I'm Ancase from Indonesia<br><br>- 🔭 I’m working as web and mobile developer<br>- 📚 I'm currently learning to become great web and mobile developer<br>- ⚡ In my free time I play games</p>
 
 ###
 
