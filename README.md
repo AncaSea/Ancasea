@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYxeWpjdDE4N3FvNmFrZHgxeHUydDE5OTBuZjI1ZThnY3E2cDN2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"  />
 </div>
 
 ###
@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">👋 Hello World 👋</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> Hello World <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Ancase from Indonesia<br><br>- 🔭 I’m working as web and mobile developer<br>- 📚 I'm currently learning to become great web and mobile developer<br>- ⚡ In my free time I play mmorpg</p>
+<p align="left">I'm Ancase from Indonesia<br><br>- 🔭 I’m working as web and mobile developer<br>- 📚 I'm currently learning to become great web and mobile developer<br>- ⚡ In my free time I play gamaes</p>
 
 ###
 
