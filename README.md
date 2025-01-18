@@ -81,6 +81,10 @@
 
 ###
 
-<div>
-  <a href="https://app.daily.dev/ancasea"><img src="./devcard.png" width="652" alt="Ancase Rekasae's Dev Card"/></a>
+<h3 align="left">   My Dev Card from Daily.dev :</h3>
+
+###
+
+<div align="center">
+  <a href="https://app.daily.dev/ancasea"><img src="./devcard.png?type=wide&r=n2c" width="652" alt="Ancase Rekasae's Dev Card"/></a>
 </div>
