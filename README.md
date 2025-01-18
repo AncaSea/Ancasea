@@ -80,3 +80,7 @@
 </div>
 
 ###
+
+<div>
+  <a href="https://app.daily.dev/ancasea"><img src="./devcard.png" width="652" alt="Ancase Rekasae's Dev Card"/></a>
+</div>
