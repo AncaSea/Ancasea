@@ -11,6 +11,10 @@
 ###
 
 <div align="center">
+  <a href="https://wakatime.com/badge/user/7802878b-56e2-42c5-98b0-e1b95cc6bac3/project/23443577-01e3-4da9-aab2-a52a29246356"><img src="https://wakatime.com/badge/user/7802878b-56e2-42c5-98b0-e1b95cc6bac3/project/23443577-01e3-4da9-aab2-a52a29246356.svg?style=for-the-badge" alt="wakatime"></a>
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ancasea/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
